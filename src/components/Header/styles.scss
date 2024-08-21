@@ -1,0 +1,11 @@
+.Header {
+  display: flex;
+}
+
+.Header__logo {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  gap: 8px;
+}
